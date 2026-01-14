@@ -1,0 +1,7 @@
+[
+    {"employee_id": 101, "name": "Alice Smith", "age": 25, "salary": 50000, "hire_date": "2020-01-15"},
+    {"employee_id": 102, "name": "Bob Johnson", "age": 30, "salary": 60000, "hire_date": "2019-06-20"},
+    {"employee_id": 103, "name": "Charlie Brown", "age": null, "salary": 75000, "hire_date": "2021-03-10"},
+    {"employee_id": 104, "name": null, "salary": null, "hire_date": "2018-11-01", "age": 40},
+    {"employee_id": 105, "name": "Eve Davis", "age": 35, "salary": 55000, "hire_date": "2020-09-25"}
+]

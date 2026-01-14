@@ -1,0 +1,13 @@
+<person>
+  <name>Grace Hopper</name>
+  <age>85</age>
+  <city>Palo Alto< /city>  <!-- missing closing tag -->
+  <email>grace@hopper.edu</email>
+</person>
+<person name="Henry" age="invalid" city="Miami" email="henry@.com"/>  <!-- self-closing, invalid email -->
+< person > <!-- extra space in tag -->
+<name>Ivy</name>
+<age>22</age>
+<city>Denver</city>
+<email>ivy@example.com</email>
+</person>

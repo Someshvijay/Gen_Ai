@@ -1,0 +1,6 @@
+﻿"name,age,city,email"
+"John Doe, 25, New York,john@example.com"
+"Alice,,Los Angeles, alice@invalid"
+"Bob Smith, forty, Chicago bob@smith.net"
+"Charlie Brown, 30 , ""San Francisco"", charliebrown@gmail.com, extra_field=ignored"
+"Duplicate John Doe,25,New York,john@example.com"

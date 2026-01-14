@@ -1,0 +1,3 @@
+{"name": "Eve Green", "age":28, "city":"Seattle" "email":"eve@green.org"}  
+{ "name" : "Frank", age: "35", "city" : Boston, "email" : "frank@example.com" }
+{"duplicate":"Alice","age":"N/A","city":"Los Angeles","email":"alice@invalid"}
